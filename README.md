@@ -31,6 +31,10 @@ Ahora bien se creo un clase principal asi como las interfaces para el funcionami
 
 ![image](https://github.com/user-attachments/assets/9450a0c6-3361-4cc1-8005-fe059a7c3c4d)
 
+<h3>Tecnologías Utilizadas</h3>
 
+Lenguaje: Java 17
+Framework Principal: Spring Boot
+Acceso a Datos: Spring Data JPA, Hibernate
 
 
